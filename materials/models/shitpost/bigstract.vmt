@@ -1,6 +1,0 @@
-VertexLitGeneric
-{
-	$basetexture "models/shitpost/bigstract"
-	$selfillum 0
-	$tintmasktexture "models/shitpost/bigstract_tintmask"
-}

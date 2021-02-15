@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "shitpost/testchamber_sign_intro"
+	"$surfaceprop" "glass"
+	"$selfillum" 1
+	"%keywords" "portal2"
+}
