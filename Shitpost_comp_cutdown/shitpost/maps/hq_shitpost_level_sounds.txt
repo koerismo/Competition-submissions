@@ -1,0 +1,53 @@
+bigguy.captiontest
+{
+    channel    CHAN_VOICE
+    volume     VOL_NORM
+    pitch      PITCH_NORM
+    soundlevel SNDLVL_NORM
+    wave       shitpost/vo/bigguy_test.wav
+}
+
+// VOICE
+
+bigguy.noticed 
+{
+	"channel"		"CHAN_VOICE"
+	"soundlevel"		SNDLVL_NORM
+	"volume"		VOL_NORM
+	"wave"		"vo\bigguy_noticed.wav"
+}
+
+bigguy.cringe 
+{
+	"channel"		"CHAN_VOICE"
+	"soundlevel"		SNDLVL_NORM
+	"volume"		VOL_NORM
+	"wave"		"vo\bigguy_cringe.wav"
+}
+
+bigguy.god 
+{
+	"channel"		"CHAN_VOICE"
+	"soundlevel"		SNDLVL_NORM
+	"volume"		VOL_NORM
+	"wave"		"vo\bigguy_god.wav"
+}
+
+bigguy.shitposter 
+{
+	"channel"		"CHAN_VOICE"
+	"soundlevel"		SNDLVL_NORM
+	"volume"		VOL_NORM
+	"wave"		"vo\bigguy_shitposter.wav"
+}
+
+
+// WORLD
+
+World.BigGuyPowerup
+{
+	"channel"		"CHAN_AUTO"
+	"soundlevel"		"SNDLVL_105dB"
+	"volume"		"0.7"
+	"wave"		"@world\light_power_on_01.wav"
+}
