@@ -1,0 +1,21 @@
+TO INSTALL:
+
+Move the folder containing this txt and a bunch of other folders to `Portal 2/`
+The resulting path should be `Portal 2/shitpost/HOW TO INSTALL.txt`
+
+Add `shitpost` as a game to Portal `2/portal2/gameinfo.txt`.
+
+It should contain something sort of like this, but you may have more folders
+
+```
+
+SearchPaths
+		{
+			Game				|gameinfo_path|.
+			Game				"shitpost"
+		}
+
+```
+
+Launch Portal 2
+and then enter `map hq_shitpost` into the console
